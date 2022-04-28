@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "A POC for distributing BTC miner investments with smart contracts",
   "main": "index.js",
-  "workspaces": [
-    "eth-backend"
-  ],
+  "scripts": {
+    "test": "truffle test",
+    "deploy": "truffle migrate",
+    "deploy:verbose": "truffle migrate --verbose-rpc",
+    "redeploy": "truffle migrate --reset"
+  },
   "author": "Steven de Salas",
   "license": "MIT",
   "dependencies": {
