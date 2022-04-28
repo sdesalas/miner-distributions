@@ -8,7 +8,7 @@ Please install [Ganache](https://trufflesuite.com/ganache/) and check it works p
 
 ![image](https://user-images.githubusercontent.com/534414/165810534-272eddc9-e28b-4118-8cdf-978e3889fb00.png)
 
-Make usre Node.js v16 or above is installed
+Install Node.js v16, then run the following commands via Bash or similar CLI
 
 ```sh
 $ node -v
