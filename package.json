@@ -4,7 +4,8 @@
   "description": "A POC for distributing BTC miner investments with smart contracts",
   "main": "index.js",
   "workspaces": [
-    "eth-backend"
+    "eth-backend",
+    "app"
   ],
   "author": "Steven de Salas",
   "license": "MIT",
