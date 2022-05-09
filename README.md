@@ -11,7 +11,7 @@ A monorepo app for distributing BTC miner investments with smart contracts
 
 I am seriously excited about smart-contract technology, this is an amazing area with limitless potential. I am also tired of hearing it applied to what basically amounts to another way to mint Non-Fungible Tokens (NFTs) and sell them to clueless punters.
 
-So I have been on the lookout for a great use-case to apply it to, and when I heard through work about BTC miners wanting to distribute their mining profits on the basis of a smart contract I got super excited. This is a perfect business domain to use smart contracts on, and the implications of a successful prototype apply to a lot of shared-investment use-cases. Company dividend distributions, syndicated property rentals, bonds etc etc. Wow!
+Because of this, I have been on the lookout for use-cases to apply it to, and when I heard about BTC miners wanting to distribute their mining profits on the basis of a smart contract I got super excited. This is a perfect domain to use smart contracts on, and the implications of a successful prototype apply to a lot of shared-investment use-cases. Company dividend distributions, syndicated property rentals, bonds etc etc. Wow!
 
 ## Development
 
